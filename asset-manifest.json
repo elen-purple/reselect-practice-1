@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reselect-practise-1/static/css/main.70bed77a.css",
-    "main.js": "/reselect-practise-1/static/js/main.5fd28334.js",
+    "main.js": "/reselect-practise-1/static/js/main.302e843e.js",
     "home-view.css": "/reselect-practise-1/static/css/home-view.0587f314.chunk.css",
     "home-view.js": "/reselect-practise-1/static/js/home-view.770f1e38.chunk.js",
     "books-view.css": "/reselect-practise-1/static/css/books-view.0587f314.chunk.css",
@@ -11,7 +11,7 @@
     "404-view.js": "/reselect-practise-1/static/js/404-view.b779de90.chunk.js",
     "index.html": "/reselect-practise-1/index.html",
     "main.70bed77a.css.map": "/reselect-practise-1/static/css/main.70bed77a.css.map",
-    "main.5fd28334.js.map": "/reselect-practise-1/static/js/main.5fd28334.js.map",
+    "main.302e843e.js.map": "/reselect-practise-1/static/js/main.302e843e.js.map",
     "home-view.0587f314.chunk.css.map": "/reselect-practise-1/static/css/home-view.0587f314.chunk.css.map",
     "home-view.770f1e38.chunk.js.map": "/reselect-practise-1/static/js/home-view.770f1e38.chunk.js.map",
     "books-view.0587f314.chunk.css.map": "/reselect-practise-1/static/css/books-view.0587f314.chunk.css.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.70bed77a.css",
-    "static/js/main.5fd28334.js"
+    "static/js/main.302e843e.js"
   ]
 }
